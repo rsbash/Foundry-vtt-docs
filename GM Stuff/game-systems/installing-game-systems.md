@@ -26,17 +26,7 @@ To install game systems:
 5. Foundry searches in real time. Locate the relevant game system to install. 
 6. To the right of the relevant game system, click the **Install** button. 
 
-
-## Update Game Systems
-
-Update game systems at any time to get new rulesets and changes to the existing game systems for improved performance and efficiency.
-
-To update game systems:
-
-1. Open Foundry VTT from a desktop PC. 
-2. From the main Foundry splash page, click **Game Systems**. 
-3. Locate the relevant game system to update. 
-4. Click **Update**. The game system update process runs. 
+Upon installation of at least one game system, the next step is to [create a world](../world-management/create-a-world.md) with that game system. 
 
 
 ## Uninstall Game Systems
